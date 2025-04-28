@@ -390,6 +390,56 @@
               <FileType>1</FileType>
               <FilePath>.\main.c</FilePath>
             </File>
+            <File>
+              <FileName>car_locking.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\car_locking.h</FilePath>
+            </File>
+            <File>
+              <FileName>car_locking.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\car_locking.c</FilePath>
+            </File>
+            <File>
+              <FileName>adc_speed.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\adc_speed.h</FilePath>
+            </File>
+            <File>
+              <FileName>ultrasonic.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\ultrasonic.h</FilePath>
+            </File>
+            <File>
+              <FileName>ultrasonic.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\ultrasonic.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd_display.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\lcd_display.h</FilePath>
+            </File>
+            <File>
+              <FileName>lcd_display.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lcd_display.c</FilePath>
+            </File>
+            <File>
+              <FileName>adc_speed.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\adc_speed.c</FilePath>
+            </File>
+            <File>
+              <FileName>alerts.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\alerts.c</FilePath>
+            </File>
+            <File>
+              <FileName>alerts.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\alerts.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -508,10 +558,10 @@
           <targetInfo name="Target 1"/>
         </targetInfos>
       </file>
-      <file attr="config" category="header" name="CMSIS\RTOS2\FreeRTOS\Config\FreeRTOSConfig.h" version="10.6.0">
+      <file attr="config" category="header" condition="CoreM" name="CMSIS\RTOS2\FreeRTOS\Config\ARMCM\FreeRTOSConfig.h" version="10.6.0">
         <instance index="0">RTE\RTOS\FreeRTOSConfig.h</instance>
-        <component Cbundle="FreeRTOS" Cclass="RTOS" Cgroup="Config" Cvariant="CMSIS RTOS2" Cvendor="ARM" Cversion="11.1.0" condition="FreeRTOS Config CMSIS RTOS2"/>
-        <package name="CMSIS-FreeRTOS" schemaVersion="1.7.27" url="https://www.keil.com/pack/" vendor="ARM" version="11.1.0"/>
+        <component Cbundle="FreeRTOS" Cclass="RTOS" Cgroup="Config" Cvariant="CMSIS RTOS2" Cvendor="ARM" Cversion="10.5.1" condition="FreeRTOS Config CMSIS RTOS2"/>
+        <package name="CMSIS-FreeRTOS" schemaVersion="1.7.7" url="https://www.keil.com/pack/" vendor="ARM" version="10.5.1"/>
         <targetInfos>
           <targetInfo name="Target 1"/>
         </targetInfos>
