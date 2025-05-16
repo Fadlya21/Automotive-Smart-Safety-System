@@ -341,7 +341,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath>..\test</IncludePath>
+              <IncludePath>..\Automotive-Smart-Safety-System</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -389,6 +389,56 @@
               <FileName>main.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\main.c</FilePath>
+            </File>
+            <File>
+              <FileName>basic_io.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\basic_io.c</FilePath>
+            </File>
+            <File>
+              <FileName>basic_io.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\basic_io.h</FilePath>
+            </File>
+            <File>
+              <FileName>hw_memmap.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\hw_memmap.h</FilePath>
+            </File>
+            <File>
+              <FileName>hw_sysctl.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\hw_sysctl.h</FilePath>
+            </File>
+            <File>
+              <FileName>hw_types.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\hw_types.h</FilePath>
+            </File>
+            <File>
+              <FileName>retarget.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\retarget.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>consoleprint.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\consoleprint.c</FilePath>
+            </File>
+            <File>
+              <FileName>consoleprint.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\consoleprint.h</FilePath>
             </File>
           </Files>
         </Group>

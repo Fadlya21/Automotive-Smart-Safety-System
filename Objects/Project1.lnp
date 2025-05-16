@@ -1,5 +1,9 @@
 --cpu=Cortex-M4.fp.sp
 ".\objects\main_1.o"
+".\objects\basic_io.o"
+".\objects\retarget.o"
+".\objects\lcd.o"
+".\objects\consoleprint.o"
 ".\objects\clib_os.o"
 ".\objects\cmsis_os2.o"
 ".\objects\os_systick.o"
@@ -12,7 +16,7 @@
 ".\objects\port.o"
 ".\objects\heap_4.o"
 ".\objects\queue.o"
-".\objects\tasks.o"
+".\objects\tasks_1.o"
 ".\objects\timers.o"
 --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
