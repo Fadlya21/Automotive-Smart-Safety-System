@@ -440,6 +440,56 @@
               <FileType>5</FileType>
               <FilePath>.\consoleprint.h</FilePath>
             </File>
+            <File>
+              <FileName>speed_system.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\speed_system.c</FilePath>
+            </File>
+            <File>
+              <FileName>speed_system.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\speed_system.h</FilePath>
+            </File>
+            <File>
+              <FileName>tasks.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\tasks.c</FilePath>
+            </File>
+            <File>
+              <FileName>Door.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Door.h</FilePath>
+            </File>
+            <File>
+              <FileName>Doors.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Doors.c</FilePath>
+            </File>
+            <File>
+              <FileName>display.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\display.h</FilePath>
+            </File>
+            <File>
+              <FileName>gear_system.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\gear_system.c</FilePath>
+            </File>
+            <File>
+              <FileName>gear_system.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\gear_system.h</FilePath>
+            </File>
+            <File>
+              <FileName>ultrasonic_system.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\ultrasonic_system.c</FilePath>
+            </File>
+            <File>
+              <FileName>ultrasonic_system.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\ultrasonic_system.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
